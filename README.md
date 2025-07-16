@@ -4,9 +4,9 @@ I'm a Java full stack developer with a strong foundation in Java, SQL, JDBC, Hib
 
 <ul>
   <li type="none">
-    🧾<h3>Curent Learning : React, Spring Security</h3>
-    💭<h3>Ask me : Java, SQL, Web Developement </h3>
-    📩<h3>How to reach : akramshareiffk@gmail.com </h3> 
+    <h5>🧾Curent Learning : React, Spring Security</h5>
+    <h5>💭Ask me : Java, SQL, Web Developement </h5>
+    <h5>📩How to reach : akramshareiffk@gmail.com </h5> 
   </li>
 </ul>
 
