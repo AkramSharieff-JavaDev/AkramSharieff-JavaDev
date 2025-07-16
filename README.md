@@ -9,10 +9,7 @@ I'm a Java full stack developer with a strong foundation in Java, SQL, JDBC, Hib
     <li> <h5>📩How to reach : akramshareiffk@gmail.com </h5> </li>
   
 </ul>
-
-
-**AkramSharieff-JavaDev/AkramSharieff-JavaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<hr>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
