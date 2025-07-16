@@ -6,7 +6,7 @@ I'm a Java full stack developer with a strong foundation in Java, SQL, JDBC, Hib
   <li>
     <h5>🧾Curent Learning : React, Spring Security</h5></li>
    <li> <h5>💭Ask me : Java, SQL, Web Developement </h5></li>
-    <li> <h5>📩How to reach : akramshareiffk@gmail.com </h5> </li>
+    <li> <h5>📩How to reach : akramsharieffk@gmail.com </h5> </li>
   
 </ul>
 <hr>
