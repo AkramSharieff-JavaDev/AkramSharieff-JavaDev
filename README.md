@@ -1,6 +1,14 @@
 <h1 align="center">Hi👋, I'm Akram Sharieff </h1> 
 <h3>About me</h3>
-I'm a Java full stack devloper with a strong foundation in Java, SQL, JDBC, Hibernate, Spring, SpringBoot, HTML, CSS, JavaScript, React. Eager to apply problem-solving and technical skills to contribute to innovative solutions in a dynamic and growth-oriented environment
+I'm a Java full stack developer with a strong foundation in Java, SQL, JDBC, Hibernate, Spring, SpringBoot, HTML, CSS, JavaScript, React. Eager to apply problem-solving and technical skills to contribute to innovative solutions in a dynamic and growth-oriented environment
+
+<ul>
+  <li type="none">
+    🧾<h3>Curent Learning : React, Spring Security</h3>
+    💭<h3>Ask me : Java, SQL, Web Developement </h3>
+    📩<h3>How to reach : akramshareiffk@gmail.com </h3> 
+  </li>
+</ul>
 
 
 **AkramSharieff-JavaDev/AkramSharieff-JavaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
