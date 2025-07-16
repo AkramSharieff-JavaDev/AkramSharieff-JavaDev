@@ -19,7 +19,7 @@ I'm a Java full stack developer with a strong foundation in Java, SQL, JDBC, Hib
 </ul>
 <h3>Database</h3>
 <ul>
-  <li>Mysqk</li>
+  <li>Mysql</li>
 </ul>
 <h3>Web Technologies</h3>
 <ul>
