@@ -10,5 +10,11 @@ I'm a Java full stack developer with a strong foundation in Java, SQL, JDBC, Hib
   
 </ul>
 <hr>
-<h2>Skills & Technology</h2>
+<h3>Skills & Technology</h3>
+<h2>Backend Developement</h2>
+<ul>
+  <li><b>Java </b>(Core & Advanced)</li>
+  <li><b>Spring Framework </b> (Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf)</li>
+  <li><b>Hibernate, JDBC</b></li>
+</ul>
 
