@@ -1,4 +1,4 @@
-<center><h2>Hi👋, I'm Akram Sharieff </h2> </center>
+<h1 align="center">Hi👋, I'm Akram Sharieff </h1> 
 <h1>Am a Java full stack dev</h1>
 <h2>just for dev profile</h2>
 
